@@ -1,2 +1,4 @@
 D:\c语言\数据结构\串的基本操作\Debug\串的基本操作.exe
 D:\c语言\数据结构\串的基本操作\Debug\串的基本操作.pdb
+D:\c语言\DataStructure\串的基本操作\Debug\串的基本操作.exe
+D:\c语言\DataStructure\串的基本操作\Debug\串的基本操作.pdb
